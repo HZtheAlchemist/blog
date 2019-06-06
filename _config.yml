@@ -1,3 +1,4 @@
 name: Han Zhang, the Alchemist
 markdown: kramdown
+theme: minimal
 permalink: /blog/:year/:month/:day/:title
